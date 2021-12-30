@@ -1,0 +1,78 @@
+
+/* hero image section */
+.heroimage {
+  background-image:url("image/hero_blank.png")
+}
+
+.heroimage  {
+  height: 600px;
+  width: 100%;
+  background-repeat: no-repeat;
+}
+
+/* .herotext {
+ margin: auto;
+ width: 100%;
+ height: auto;
+} */
+
+/* Hero text  */
+
+.herotext {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  height: 100%;
+
+}
+
+.covhei {
+  height: 100%;
+}
+
+
+.card {
+  padding: 15px;
+  
+}
+
+.blogbody {
+  background-color: #354770;
+
+  }
+  
+.home_body {
+  
+  background-color: #1e5db5;
+}
+
+/* about section */
+
+.abt-sec {
+  background-color: #354770;
+  height: 600px;
+  width: auto;
+
+}
+
+.bg-tran {
+  background: transparent;
+}
+
+.heroimage {
+  background-image:url("image/hero_blank.png")
+}
+
+body, html {
+  height: 100%;
+}
+
+/* about section */
+.bg-2 { 
+  background-color: #354770;
+  color: #ffffff;
+}
+
